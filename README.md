@@ -211,15 +211,18 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
 
 ## Motivation and Learning
 
-My first week in the Front-End Software Development bootcamp began last Wednesday, Nov 17th, with my instructor Natalie Childs. She was supportive with my first simple repository project (my website in the early stages; .HTML) which I started a few days before class even if it was not a topic we were working on.
+<p>My first week in the Front-End Software Development bootcamp began last Wednesday, Nov 17th, with my instructor Natalie Childs at <a href="https://www.promineotech.com/">Promineo Tech</a>. She was supportive with my first simple repository project (my website in the early stages; .HTML) which I started a few days before class even if it was not a topic we were working on.
+</p> 
+<p>I’d watch different YouTube channels with tutorials on creating a website. However, I set a challenge for myself to complete as much of the website on my own as I could, based on what I could remember and my notes from the <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> Responsive Web Page Certificate Curriculum (I finished the Basic HTML and HTML5 section along with a few from the Basic CSS section). I added links to my GitHub page, a downloadable CV (from my Google Drive), and my LinkedIn page. </p>
  
-I’d watch different YouTube channels with tutorials on creating a website. However, I set a challenge for myself to complete as much of the website on my own as I could, based on what I could remember and my notes from the <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> Responsive Web Page Certificate Curriculum (I finished the Basic HTML and HTML5 section along with a few from the Basic CSS section). I added links to my GitHub page, a downloadable CV (from my Google Drive), and my LinkedIn page. 
+<p>My simple challenge to add an image element and scr=”” of a lotus flower to my site became a struggle. I was so close to just saying, “forget it...I don’t need it...”, but I’m so glad I did not give up. Thankfully Natalie came to the rescue. From what I was watching on YouTube and what Natalie shared with me; my error came down to the fact that I was mapping the relative path to my image incorrectly. </p>
  
-I figured, adding an <img> couldn’t be that hard, I was able to the other links and I was able to upload the cat photo on the Basic HTML and HTML5 lesson. I re-watched YouTube tutorials, pulled up my FCC Onenotes, Google some more, vented to family (not that they knew what I was talking about but that is beside the point), followed the tips to download and save the image to my computer, and repeated the for 2 days. 
+<p>My images were in a different folder and my code (well, final version before asking Natalie for assistance) had the wrong path mapped since my website and folders (folder names) were different slightly from the tutorials. So, following their instructions weren’t going to work in my case. And with all YouTube tutorials, we can’t just pause the video and ask the vlogger (in the moment) why there is an error in our code, what to do, why are they doing what they are doing, etc. On top of it all, I didn’t know or understand what the term relative file path is or understand the significance for why it was causing the error (Natalie later explained and I also now knew exactly what I needed to Google/YouTube to understand). </p>
+
+**Issue and Solution**
+My code originally: <img src="./resources/images/lotus.jpg" alt="lotus" style="width:100px;" height="100px">
  
-My simple challenge to add an <img> and scr=”” of a lotus flower to my site became a struggle. I was so close to just saying, “forget it...I don’t need it...”, but I’m so glad I did not give up. Thankfully @ Natalie came to the rescue. From what I was watching on YouTube and what Natalie shared with me; my error came down to the fact that I was mapping the relative path to my image incorrectly. 
- 
-Basically, my images were in a different folder and my code (well, final version before asking Natalie for assistance) had the wrong path mapped since my website and folders (folder names) were different slightly from the tutorials. So, following their instructions weren’t going to work in my case. And with all YouTube tutorials, we can’t just pause the video and ask the vlogger (in the moment) why there is an error in our code, what to do, why are they doing what they are doing, etc. On top of it all, I didn’t know or understand what the term relative file path is or understand the significance for why it was causing the error (Natalie later explained and I also now knew exactly what I needed to Google/YouTube to understand). 
+The correct solution: <img src="../images/lotus.jpg" alt="lotus
 
 
 
@@ -239,7 +242,7 @@ Basically, my images were in a different folder and my code (well, final version
 
 
 <!-- MARKDOWN LINKS & IMAGES
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
+https://www.markdownguide.org/basic-syntax/#reference-style-links 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
