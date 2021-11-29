@@ -65,7 +65,7 @@ This is an important component of your project that many new developers often ov
   </p>
 </div>
 -->
-
+# Project Title: Personal Website
 
 <!-- TABLE OF CONTENTS -->
 <details>
