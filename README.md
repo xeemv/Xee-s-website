@@ -88,8 +88,8 @@ This is an important component of your project that many new developers often ov
     <li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <!--<li><a href="#license">License</a></li>-->
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#Motivation and Learning">Motivation and Learning</a></li>
+    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -191,14 +191,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>-->
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Xee M. V. - xeeyang08@gmail.com
-
-Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/Xee-s-website/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Motivation and Learning
@@ -213,14 +205,21 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
 
 <br>
 Issue and Solution:
-- My code originally:
-<br>
-<p>< img src="./resources/images/lotus.jpg" alt="lotus" style="width:100px;" height="100px" > (space has been added to tag elements in order to display it)</p>
+<p></p>
+<p></p>
+<p>My code originally: < img src="./resources/images/lotus.jpg" alt="lotus" style="width:100px;" height="100px" > (space has been added to tag elements in order to display it)</p>
  
 <p>The correct solution: < img src="../images/lotus.jpg" alt="lotus > </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Contact
+
+Xee M. V. - xeeyang08@gmail.com
+
+Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/Xee-s-website/)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
