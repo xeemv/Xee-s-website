@@ -83,9 +83,9 @@ This is an important component of your project that many new developers often ov
       <!--  <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
+    </li>-->
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>-->
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
     <!--<li><a href="#license">License</a></li>-->
     <li><a href="#Motivation and Learning">Motivation and Learning</a></li>
@@ -148,14 +148,13 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES 
+<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+- background-image: url ( 'images/my-image.png' );
+> used this style in my CSS style sheet to place a background image on my website
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>-->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
