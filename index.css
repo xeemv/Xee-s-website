@@ -1,24 +1,30 @@
+body {
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 h1 {
-    font-family: 'Festive', cursive; font-size: 50px; text-align: center;
+    font-family: 'Festive', cursive; font-size: 150px; text-align: center;
 }
 h2 {
-   font-family: 'Estonia', cursive; font-size: 15px;
+    font-family: 'Estonia', cursive; font-size: 35px;
 }
 h3 {
-   font-family: 'Estonia', cursive; font-size: 15px;
+    font-family: 'Estonia', cursive; font-size: 20px;
 }
 P {
-   font-family: 'Estonia', cursive; font-size: 12px;
+    font-family: 'Estonia', cursive; font-size: 18px;
 }
 P2 {
-   font-family: 'Estonia', cursive; font-size: 12px;
+    font-family: 'Estonia', cursive; font-size: 18px;
 }
 P3 {
-   font-family: 'Estonia', cursive; font-size: 12px;
+    font-family: 'Estonia', cursive; font-size: 18px;
 }
 img {
-   border-radius: 10px;
-   width: 200px;
-   height: 150px;
-   object-position: center;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+    object-position: center;
 }
