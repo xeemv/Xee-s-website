@@ -219,13 +219,11 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
  
 <p>My images were in a different folder and my code (well, final version before asking Natalie for assistance) had the wrong path mapped since my website and folders (folder names) were different slightly from the tutorials. So, following their instructions weren’t going to work in my case. And with all YouTube tutorials, we can’t just pause the video and ask the vlogger (in the moment) why there is an error in our code, what to do, why are they doing what they are doing, etc. On top of it all, I didn’t know or understand what the term relative file path is or understand the significance for why it was causing the error (Natalie later explained and I also now knew exactly what I needed to Google/YouTube to understand). </p>
 
-**Issue and Solution**
-My code originally: <img src="./resources/images/lotus.jpg" alt="lotus" style="width:100px;" height="100px">
+<br>
+Issue and Solution:
+- My code originally: < img src="./resources/images/lotus.jpg" alt="lotus" style="width:100px;" height="100px" > (space has been added to tag elements in order to display it)
  
-The correct solution: <img src="../images/lotus.jpg" alt="lotus
-
-
-
+- The correct solution: <img src="../images/lotus.jpg" alt="lotus
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
