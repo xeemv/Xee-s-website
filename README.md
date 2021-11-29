@@ -190,9 +190,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>-->
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Motivation and Learning
 
 <p>My first week in the Front-End Software Development bootcamp began last Wednesday, Nov 17th, with my instructor Natalie Childs at <a href="https://www.promineotech.com/">Promineo Tech</a>. She was supportive with my first simple repository project (my website in the early stages; .HTML) which I started a few days before class even if it was not a topic we were working on.
