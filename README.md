@@ -221,7 +221,7 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [https://webplatform.github.io/docs/css/functions/url/] (https://webplatform.github.io/docs/css/functions/url/)
+* <a href="https://webplatform.github.io/docs/css/functions/url/">CSS images: url() - WebPlateforms Doc</a>
 * []()
 * []()
 
