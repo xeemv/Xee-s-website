@@ -39,3 +39,11 @@ img {
     cursor: pointer;
     border-radius: 50%;
 }
+.box {
+    width: 100px;
+    boarder: 1px;
+    padding: 50px;
+    margin: 20px;
+}
+    
+    
