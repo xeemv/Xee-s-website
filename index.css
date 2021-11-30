@@ -1,5 +1,5 @@
 body {
-    background-image: url('../Xee-s-website/images/banner.png');
+    background-image: url ("images/banner.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -29,15 +29,14 @@ img {
     object-position: center;
 }
 .social-icons {
-    margin: 30px;
+    margin: 20px;
     text-align: left;
 }
 .social-icons img{
     width: 20px;
     margin: 0 12px;
     margin: 0 12px;
-    text-align: left;
-    box-shadow: 0 0 20px 9 #7f7f7f3d;
+    text-align: top;
     cursor: pointer;
     border-radius: 50%;
 }
