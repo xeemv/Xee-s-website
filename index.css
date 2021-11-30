@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/banner.png");
+    background-image: url('images/banner.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -33,7 +33,7 @@ img {
     text-align: left;
 }
 .social-icons img{
-    width: 10px;
+    width: 20px;
     margin: 0 12px;
     margin: 0 12px;
     text-align: top;
