@@ -42,7 +42,7 @@ img {
 .box {
     width: 300px;
     height: 100px;
-    boarder: 15px;
+    boarder: 50px;
     padding: 30px;
     margin: 20px;
 }
