@@ -40,9 +40,9 @@ img {
     border-radius: 50%;
 }
 .box {
-    width: 100px;
-    boarder: 1px;
-    padding: 50px;
+    width: 300px;
+    boarder: 15px;
+    padding: 30px;
     margin: 20px;
 }
     
