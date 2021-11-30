@@ -28,3 +28,16 @@ img {
     height: 250px;
     object-position: center;
 }
+.social-icons {
+    margin: 30px;
+    text-align: left;
+}
+.social-icons img{
+    width: 30px;
+    margin: 0 12px;
+    margin: 0 12px;
+    text-align: center;
+    box-shadow: 0 0 20px 9 #7f7f7f3d;
+    cursor: pointer;
+    border-radius: 50%;
+}
