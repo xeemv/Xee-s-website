@@ -1,5 +1,5 @@
 body {
-    background-image: url ('images/banner.png');
+    background-image: url ("banner.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -36,7 +36,7 @@ img {
     width: 30px;
     margin: 0 12px;
     margin: 0 12px;
-    text-align: center;
+    text-align: left;
     box-shadow: 0 0 20px 9 #7f7f7f3d;
     cursor: pointer;
     border-radius: 50%;
