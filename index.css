@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    background-image: url('images/banner.png');
-=======
     background-image:url("images/banner.png");
->>>>>>> 4dc6ce8bf3ea487e4a6b575a9314775d048091c8
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
