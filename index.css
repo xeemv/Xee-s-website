@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background-image: url('images/banner.png');
+=======
+    background-image:url("images/banner.png");
+>>>>>>> 4dc6ce8bf3ea487e4a6b575a9314775d048091c8
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -36,7 +40,15 @@ img {
     width: 20px;
     margin: 0 12px;
     margin: 0 12px;
-    text-align: top;
     cursor: pointer;
     border-radius: 50%;
 }
+.box {
+    width: 300px;
+    height: 200px;
+    boarder: 50px;
+    padding: 30px;
+    margin: 20px;
+}
+    
+    
