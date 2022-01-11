@@ -63,3 +63,12 @@ nav ul li a{
     color: #fff;
     box-shadow: 3px 8px 22px rgba(94,28,68,0.15);
 }
+.social-links{
+    text-align: center;
+    vertical-align: bottom;
+}
+.social-links a{
+    text-decoration: none;
+    color: #6a7199;
+    padding-right: 50px;
+}
