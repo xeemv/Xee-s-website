@@ -1,5 +1,6 @@
 function sendEmail(){
     Email.send({
+        // SecureToken: "67e3554c-e7ee-4d9d-93d0-8611ed03bdf3",
         Host : "smtp.gmail.com",
         Username : "xeeyang08@gmail.com",
         Password : "ooedqzmqatcrcold",
@@ -12,4 +13,4 @@ function sendEmail(){
     }).then(
       message => alert("Message Sent Successfully")
     );
-}
+} 
