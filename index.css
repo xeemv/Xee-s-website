@@ -67,6 +67,10 @@ nav ul li a{
 .social-links{
     text-align: center;
     vertical-align: bottom;
+    /* 
+    - found this section from stackoverflow, https://stackoverflow.com/questions/299870/how-to-center-an-image-horizontally-and-align-it-to-the-bottom-of-the-container.
+        - answer was by workmad3
+    */
 }
 .social-links a{
     text-decoration: none;
