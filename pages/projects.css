@@ -20,6 +20,7 @@ body {
     margin: auto;
     display: flex;
     align-items: center;
+    padding-top: 1%;
 }
 .logo{
     width: 260px;
