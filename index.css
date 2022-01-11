@@ -24,6 +24,7 @@ body {
 .logo{
     width: 260px;
     cursor: pointer;
+    border-radius: 5%;
 }
 nav{
     flex: 1;
