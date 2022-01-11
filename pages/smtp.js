@@ -6,8 +6,10 @@ function sendEmail(){
         To : 'xeeyang08@gmail.com',
         From : document.getElementById("email").value,
         Subject : "New Contact Form Inquiry",
-        Body : "And this is the body"
+        Body : "Name: " + document.getElementById("Name").value + "<br> Email: " + document.getElementById("email").value
+        + "<br> Phone number: " + document.getElementById("phone").value
+        + "<br> Message: " + document.getElementById("message").value
     }).then(
-      message => alert(message)
+      message => alert("Message Sent Successfully")
     );
 }
