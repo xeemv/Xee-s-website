@@ -153,6 +153,8 @@ This is an example of how to list things you need to use the software and how to
 
 - background-image: url ( 'images/my-image.png' );
 > used this style in my CSS style sheet to place a background image on my website
+- used smtpJS.com to receive form data via email
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -224,6 +226,8 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
 * <a href="http://mattkersley.com/responsive/">Responsive Web Design Testing Tool</a>
 * <a href="https://www.canva.com/photos/free/">Canva free stock photos</a>
 * <a href="https://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a>
+* <a href="https://smtpjs.com/">SmtpJS.com</a>
+* <a href="https://www.youtube.com/watch?v=sGQSz22U8VM">How To Make Working Contact Form With JavaScript | Receive Form Data On Email</a>
 * []()
 * []()
 
