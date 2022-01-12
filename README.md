@@ -22,6 +22,7 @@ This is an important component of your project that many new developers often ov
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
+https://github.com/othneildrew/Best-README-Template/blob/master/README.md this is the website where I found this template.
 -->
 
 
@@ -77,13 +78,13 @@ This is an important component of your project that many new developers often ov
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-   <!-- <li>
+   <li>
      <a href="#getting-started">Getting Started</a>
-      <ul>-->
-      <!--  <li><a href="#prerequisites">Prerequisites</a></li>
+      <ul>
+       <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>-->
+    </li>
     <li><a href="#usage">Usage</a></li>
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
@@ -101,6 +102,7 @@ This is an important component of your project that many new developers often ov
 
 Personal website project with active links to my github account, CV for download, and LinkedIn account.
 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -109,24 +111,32 @@ Personal website project with active links to my github account, CV for download
 
 * [HMTL]
 * [CSS]
+* [JS]
+* [SMTPJS.com]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED
+<!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+<!-- This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps. -->
+
+If your using gmail, you will need to create an app password to use with SMTPJS.
+- [How to generate gmail app password to send email](https://www.youtube.com/watch?v=lNZcCQzB-4A) is a helpful video to complete this task created by CodeDevops on Feb 4th, 2021.
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+<!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
--->
+--> 
+- [Send emails from Javascript using this website](https://smtpjs.com/)
+- set receiving email smpt up
 
 <!--### Installation
 
@@ -201,6 +211,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p>My images were in a different folder and my code (well, final version before asking Natalie for assistance) had the wrong path mapped since my website and folders (folder names) were different slightly from the tutorials. So, following their instructions weren’t going to work in my case. And with all YouTube tutorials, we can’t just pause the video and ask the vlogger (in the moment) why there is an error in our code, what to do, why are they doing what they are doing, etc. On top of it all, I didn’t know or understand what the term relative file path is or understand the significance for why it was causing the error (Natalie later explained and I also now knew exactly what I needed to Google/YouTube to understand). </p>
 
+<p>Two interesting information that I learned about Smtp from this project:
+
+1. SMTP utilize client/server model to send and receive email, however, it is limited in queuing messages on the receiving end. Smtp is usually paired with POP (Post Office Protocol), a standard one way client-server protocol where an email could be downloaded from the mail server.
+
+Or IMAP (Internet Message Access Protocol) which allows you to receive a copy of the email but the original will stay on the mail server.
+
+2. Smtp also cant transfer video, audio, or files without using MIME (multipurpose internet mail extensions).
+
+Now I have the ability to receive messages from anyone who decides to send me a message from my work in progress website without #backendwebdevelopment (for the time being).<p>
+
 <br>
 Issue and Solution:
 <p></p>
@@ -228,6 +248,7 @@ Project Link: [https://xeemv.github.io/Xee-s-website/](https://xeemv.github.io/X
 * <a href="https://jigsaw.w3.org/css-validator/">W3C CSS Validation Service</a>
 * <a href="https://smtpjs.com/">SmtpJS.com</a>
 * <a href="https://www.youtube.com/watch?v=sGQSz22U8VM">How To Make Working Contact Form With JavaScript | Receive Form Data On Email</a>
+* <a href="https://www.youtube.com/watch?v=lNZcCQzB-4A">How to generate gmail app password to send email</a>
 * []()
 * []()
 
